@@ -11,7 +11,7 @@ I mechanized it for you. When you begin the substance, it will run each second. 
 3. Open up your Chrome Console*
 4. Paste the following in the console
 
-```
+>>>
 ;
 (function () {
 	setInterval(() => {
@@ -36,4 +36,4 @@ I mechanized it for you. When you begin the substance, it will run each second. 
 	}, 1000);
 }());
 
-```
+>>>
